@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Thani 2nd post"
+    },
+    {
+      "id": 3,
+      "title": "My 3nd post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Thani 3nd post"
+    },
+    {
+      "id": 4,
+      "title": "My 4nd post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Thani 4nd post"
+    },
+    {
+      "id": 5,
+      "title": "My 5nd post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Thani 5nd post"
+    },
+    {
+      "id": 6,
+      "title": "Hi Thani",
+      "datetime": "August 10, 2023 11:12:50 AM",
+      "body": "Thani post Thanigaivel"
+    },
+    {
+      "id": 7,
+      "title": "Hi thani",
+      "datetime": "August 10, 2023 3:15:23 PM",
+      "body": "some text here"
+    }
+  ]
+}
